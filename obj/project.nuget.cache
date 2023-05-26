@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbBAq7LfvOK47aXvEji6C/YFyGIhHr3FVLDvMa/C3CNQ42SjnXM2IpsnrawYsu9NWw1Z8IXaIm6WUsSzKtRgxQ==",
+  "dgSpecHash": "5cf1abJjVcCerjbyhFaa/uNloRyVu/nsEIMrRQZ25DTdmTlI1c0i9WDapZn2W2RRvWBnYOPt3hiLjqE0ihrF2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danye\\Desktop\\tentativa 3\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\danye\\Desktop\\04f - Atividade 6\\continuação da atividade 5\\tentativa 3\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danye\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\danye\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
